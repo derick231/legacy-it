@@ -1,0 +1,54 @@
+{
+  "navbar": {
+    "home": "Início",
+    "about": "Sobre",
+    "services": "Serviços",
+    "contact": "Contato"
+  },
+  "slides": {
+    "webDevelopment": "Desenvolvimento Web",
+    "graphicDesign": "Design Gráfico",
+    "digitalMarketing": "Marketing Digital",
+    "background": "Por que a Legacy IT"
+  },
+  "contents": {
+    "webDevelopment": "Melhore sua presença online com a ajuda da nossa equipe criativa de design e desenvolvimento web. Além de criar sites atraentes, focamos em aprimorar a experiência do usuário. Faremos sua marca se destacar da concorrência e se tornar mais competitiva. Impulsione seu negócio com um site que reflita sua marca e atraia seu público. Descubra a diferença do design web focado na geração de leads. Transforme visitantes em clientes! Entre em contato conosco para uma consulta gratuita.",
+    "graphicDesign": "Fortaleça a identidade da sua marca com o apoio da nossa equipe criativa de design gráfico. Além de designs visualmente atraentes, focamos em comunicação clara e forte consistência da marca. De logotipos e materiais de marketing a gráficos para redes sociais e materiais promocionais, criamos designs que chamam a atenção e deixam uma impressão duradoura. Destaque-se em um mercado competitivo com visuais que realmente representem sua marca. Reforce sua mensagem, conecte-se com seu público e eleve seu negócio por meio de um design gráfico impactante. Entre em contato conosco hoje para uma consulta gratuita.",
+    "digitalMarketing": "Expanda seu negócio e alcance o público certo com nossas estratégias de marketing digital orientadas a resultados. Vamos além da visibilidade, focando em engajamento significativo, reconhecimento da marca e crescimento mensurável. Do marketing em redes sociais e otimização para mecanismos de busca à publicidade paga e criação de conteúdo, ajudamos sua marca a se conectar com os clientes em todas as etapas da jornada. Aumente o tráfego, gere leads qualificados e transforme prospects em clientes fiéis com soluções de marketing digital adaptadas aos seus objetivos. Entre em contato conosco hoje para uma consulta gratuita.",
+    "background": "A Legacy IT se destaca como uma parceira de tecnologia confiável, dedicada a fornecer soluções digitais inovadoras, confiáveis e escaláveis, adaptadas às necessidades de cada cliente."
+  },
+  "footer": {
+    "company": "Empresa",
+    "servicesTitle": "Serviços",
+
+    "home": "Início",
+    "about": "Sobre",
+    "services": "Serviços",
+    "contact": "Contato",
+
+    "webDevelopment": "Desenvolvimento Web",
+    "graphicDesign": "Design Gráfico",
+    "digitalMarketing": "Marketing Digital",
+
+    "newsletter": "Assine nossa newsletter",
+    "newscontent": "As últimas notícias, artigos e recursos, enviados para sua caixa de entrada semanalmente.",
+
+    "button": "Inscrever-se"
+  },
+  "contact": {
+    "title": "Entre em contato",
+    "touch": "Fale conosco",
+    "desc": "Sinta-se à vontade para entrar em contato conosco para qualquer dúvida, suporte ou colaboração. Teremos prazer em ajudar.",
+    "name": "Seu nome",
+    "email": "Seu e-mail",
+    "message": "Sua mensagem",
+    "call": "Ligue para nós",
+    "emailus": "Envie-nos um e-mail",
+    "address": "Endereço",
+    "follow": "Siga-nos em",
+    "fname": "Nome completo",
+    "femail": "Endereço de e-mail",
+    "fmessage": "Mensagem",
+    "button": "Enviar mensagem"
+  }
+}
