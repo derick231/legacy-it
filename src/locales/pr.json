@@ -50,5 +50,19 @@
     "femail": "Endereço de e-mail",
     "fmessage": "Mensagem",
     "button": "Enviar mensagem"
-  }
+  },
+  "about": {
+  "title": "Sobre nós",
+  "whtitle": "Quem somos",
+  "whatitle": "O que fazemos",
+  "ourtitle": "Nossa abordagem",
+  "ourvision": "Nossa visão",
+  "ourmission": "Nossa missão",
+  "who": "A Legacy IT é uma empresa de soluções digitais com visão de futuro, comprometida em ajudar negócios a crescer por meio de tecnologia inovadora, design criativo e marketing digital estratégico. Trabalhamos em parceria com marcas de todos os tamanhos para criar experiências digitais significativas que geram resultados reais.",
+  "what": "Na Legacy IT, somos especializados em desenvolvimento web, design gráfico e marketing digital, oferecendo soluções que não são apenas visualmente atraentes, mas também orientadas ao desempenho. Nossos sites são projetados para melhorar a experiência do usuário e converter visitantes em clientes. Nosso trabalho de design fortalece a identidade da marca, enquanto nossas estratégias de marketing focam em engajamento, visibilidade e crescimento mensurável.",
+  "our": "Acreditamos que grandes soluções digitais começam com a compreensão de nossos clientes. Cada projeto inicia com pesquisa, colaboração e comunicação clara. Ao combinar criatividade com conhecimento técnico e estratégias orientadas por dados, criamos soluções escaláveis adaptadas aos objetivos exclusivos de cada cliente.",
+  "mission": "Nossa missão é capacitar empresas por meio da entrega de soluções digitais confiáveis, inovadoras e escaláveis, ajudando marcas a se destacar em mercados competitivos e a construir conexões duradouras com seus públicos.",
+  "vision": "Tornar-se um parceiro tecnológico global confiável, reconhecido por criatividade, qualidade e impacto mensurável."
+}
+
 }
