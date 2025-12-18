@@ -2,6 +2,7 @@
 import Header from '../components/Header'
 import Slider from '../components/slider'
 import web from '../assets/web.jpg'
+import software from '../assets/sofware.jpg'
 import graphic from '../assets/graphic.jpg'
 import digital from '../assets/digital.jpg'
 import { useTranslation } from 'react-i18next'
@@ -33,6 +34,13 @@ const Home = () => {
         title={t("slides.digitalMarketing")}
         content={t("contents.digitalMarketing")}
         image={digital}
+      />
+
+      <ServiceSection
+        title={t("slides.softwareDevelopment")}
+        content={t("contents.softwareDevelopment")}
+        image={software}
+        reverse
       />
 
       <Background

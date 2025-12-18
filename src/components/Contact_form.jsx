@@ -1,15 +1,15 @@
 import {
-  FaPhoneAlt,
   FaEnvelope,
   FaMapMarkerAlt,
   FaFacebookF,
   FaTwitter,
   FaLinkedinIn,
   FaInstagram,
+  FaWhatsapp
 } from "react-icons/fa";
 import contact from "../assets/contact.jpg";
 import { useTranslation } from "react-i18next";
-import { Link } from "react-router-dom";
+
 
 const Contact_form = () => {
   const { t } = useTranslation();
@@ -95,9 +95,10 @@ const Contact_form = () => {
                   rel="noopener noreferrer"
                 >
                   <ContactItem
-                    icon={<FaPhoneAlt />}
+                    icon={<FaWhatsapp size={20}/>}
                     title={t("contact.call")}
                     value="+977 9702016450"
+              
                   />
                 </a>
                 <ContactItem
@@ -143,7 +144,7 @@ const Contact_form = () => {
 };
 
 const ContactItem = ({ icon, title, value }) => (
-  <div className="flex items-center gap-4">
+  <div className="flex items-center gap-4 mb-3">
     <div className="flex h-10 w-10 items-center justify-center rounded-full bg-sky-400 text-white">
       {icon}
     </div>

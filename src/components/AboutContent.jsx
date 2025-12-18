@@ -7,6 +7,7 @@ import about2 from '../assets/about2.jpg'
 import about3 from '../assets/about3.jpg'
 import about4 from '../assets/about4.jpg'
 import about5 from '../assets/about5.jpg'
+import AboutCard from './AboutCard'
 
 
 
@@ -55,6 +56,8 @@ const AboutContent = () => {
         content={t("about.mission")}
         image={about5}
         />
+
+        <AboutCard/>
 
     </section>
 

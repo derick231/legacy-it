@@ -9,12 +9,15 @@
     "webDevelopment": "Desarrollo Web",
     "graphicDesign": "Diseño Gráfico",
     "digitalMarketing": "Marketing Digital",
+  "softwareDevelopment": "Desarrollo de Software",
+
     "background": "¿Por qué Legacy IT?"
   },
   "contents": {
     "webDevelopment": "Mejora tu presencia en línea gracias a nuestro equipo más creativo de diseño web. Además de crear sitios web atractivos, nos enfocamos en optimizar la experiencia del usuario. Hacemos que tu marca se destaque frente a la competencia y sea más competitiva. Impulsa tu negocio con un sitio web que refleje tu marca y atraiga a tu audiencia. Descubre la diferencia del diseño web basado en la generación de leads. ¡Convierte visitantes en clientes! Contáctanos para una consulta gratuita.",
     "graphicDesign": "Refuerza la identidad de tu marca con el apoyo de nuestro equipo creativo de diseño gráfico. Más allá de diseños visualmente atractivos, nos enfocamos en una comunicación clara y una sólida coherencia de marca. Desde logotipos y materiales de marketing hasta gráficos para redes sociales y recursos promocionales, creamos diseños que captan la atención y dejan una impresión duradera. Destaca en un mercado competitivo con imágenes que realmente representen tu marca. Fortalece tu mensaje, conecta con tu audiencia y eleva tu negocio a través de un diseño gráfico impactante. Contáctanos hoy para una consulta gratuita.",
     "digitalMarketing": "Haz crecer tu negocio y llega a la audiencia adecuada con nuestras estrategias de marketing digital orientadas a resultados. Vamos más allá de la visibilidad al centrarnos en el compromiso significativo, el reconocimiento de marca y el crecimiento medible. Desde marketing en redes sociales y optimización para motores de búsqueda hasta publicidad pagada y creación de contenido, ayudamos a tu marca a conectar con los clientes en cada etapa de su recorrido. Aumenta el tráfico, genera leads de calidad y convierte prospectos en clientes fieles con soluciones de marketing digital adaptadas a tus objetivos. Contáctanos hoy para una consulta gratuita.",
+    "softwareDevelopment": "Transforma tus ideas en soluciones de software potentes y escalables con nuestros servicios expertos de desarrollo de software. Nos especializamos en crear aplicaciones confiables y de alto rendimiento adaptadas a las necesidades de tu negocio, con un enfoque en la usabilidad, la seguridad y la escalabilidad a largo plazo. Desde el análisis de requisitos y el diseño del sistema hasta el desarrollo, las pruebas y la implementación, gestionamos todo el ciclo de vida del desarrollo de software con precisión. Optimiza las operaciones, mejora la eficiencia e impulsa la innovación con soluciones de software personalizadas diseñadas para apoyar tu crecimiento. Contáctanos hoy para una consulta gratuita.",
     "background": "Legacy IT se destaca como un socio tecnológico de confianza, dedicado a ofrecer soluciones digitales innovadoras, fiables y escalables, adaptadas a las necesidades de cada cliente."
   },
   "footer": {
@@ -40,7 +43,7 @@
     "name": "Tu nombre",
     "email": "Tu correo electrónico",
     "message": "Tu mensaje",
-    "call": "Llámanos",
+    "call": "WhatsAppéanos",
     "emailus": "Envíanos un correo",
     "address": "Dirección",
     "follow": "Síguenos en",
@@ -61,6 +64,20 @@
   "our": "Creemos que las grandes soluciones digitales comienzan con la comprensión de nuestros clientes. Cada proyecto inicia con investigación, colaboración y comunicación clara. Al combinar creatividad con experiencia técnica y estrategias basadas en datos, creamos soluciones escalables adaptadas a los objetivos únicos de cada cliente.",
   "mission": "Nuestra misión es empoderar a las empresas mediante la entrega de soluciones digitales confiables, innovadoras y escalables que ayuden a las marcas a destacar en mercados competitivos y a construir conexiones duraderas con sus audiencias.",
   "vision": "Convertirnos en un socio tecnológico global de confianza, reconocido por su creatividad, calidad e impacto medible."
+},
+"service": {
+  "title": "Nuestros Servicios",
+  "desc": "Servicios que Ofrecemos",
+  "webDevelopment": "Desarrollo Web",
+  "graphicDesign": "Diseño Gráfico",
+  "digitalMarketing": "Marketing Digital",
+  "softwareDevelopment": "Desarrollo de Software",
+  "webDesc": "Diseñamos y desarrollamos sitios web responsivos que combinan un diseño limpio con una funcionalidad potente, ayudando a las empresas a crecer y conectar con su audiencia en línea.",
+  "graphicDesc": "Nuestros servicios de diseño gráfico transforman ideas en imágenes atractivas que fortalecen la identidad de marca y dejan una impresión duradera.",
+  "digitalDesc": "Nuestros servicios de marketing digital ayudan a las marcas a llegar al público adecuado, construir una sólida presencia en línea y lograr un crecimiento empresarial sostenible.",
+  "softwareDesc": "Nuestros servicios de desarrollo de software ayudan a las empresas a crear aplicaciones confiables y escalables que mejoran la eficiencia, optimizan la experiencia del usuario y respaldan el crecimiento a largo plazo.",
+  "button": "Saber más"
 }
+
 
 }
