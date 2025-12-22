@@ -94,7 +94,49 @@
   },
   "web":{
     "title":"Web Development Services",
-    "desc":" We build fast, secure, and scalable websites and web applications tailored to your business goals. Our solutions are designed to deliver high performance, robust security, and seamless user experiences across all devices. By using modern technologies and best development practices, we ensure your digital platform can grow with your business, handle increasing traffic, and adapt to future requirements while remaining reliable and easy to maintain."
+    "we":"What We Offer",
+    "desc":" We build fast, secure, and scalable websites and web applications tailored to your business goals. Our solutions are designed to deliver high performance, robust security, and seamless user experiences across all devices. By using modern technologies and best development practices, we ensure your digital platform can grow with your business, handle increasing traffic, and adapt to future requirements while remaining reliable and easy to maintain.",
+    "title1":"Custom Website Development",
+    "desc1":"Tailor-made websites built to match your brand identity and business requirements.",
+    "title2":"Web Application Development",
+    "desc2":"Powerful web apps with secure authentication, APIs, and real-time features.",
+    "title3":"E-Commerce Solutions",
+    "desc3":"Scalable online stores with secure payments and smooth user experience"
+  },
+  "graphic": {
+  "title": "Graphic Design Services",
+  "we": "What We Offer",
+  "desc": "We create visually compelling designs that communicate your brand’s message clearly and effectively. Our graphic design solutions focus on creativity, consistency, and usability, helping your brand stand out across digital and print platforms. From concept to final delivery, we ensure every design element aligns with your business identity and marketing goals.",
+  "title1": "Brand Identity Design",
+  "desc1": "Logos, color palettes, and brand guidelines that reflect your business personality.",
+  "title2": "UI/UX Design",
+  "desc2": "User-focused interface designs that enhance usability and deliver engaging experiences.",
+  "title3": "Marketing & Print Design",
+  "desc3": "Creative designs for banners, brochures, social media, and promotional materials."
+},
+"digital": {
+  "title": "Digital Marketing Services",
+  "we": "What We Offer",
+  "desc": "We help businesses grow online through data-driven digital marketing strategies that increase visibility, engagement, and conversions. Our approach combines creativity with analytics to reach the right audience at the right time, ensuring measurable results and long-term brand growth across digital channels.",
+  "title1": "Search Engine Optimization (SEO)",
+  "desc1": "Optimized content and technical strategies to improve search rankings and organic traffic.",
+  "title2": "Social Media Marketing",
+  "desc2": "Engaging campaigns that build brand awareness and connect with your target audience.",
+  "title3": "Paid Advertising & Analytics",
+  "desc3": "Result-oriented ad campaigns with continuous tracking and performance optimization."
+},
+"software": {
+  "title": "Software Development Services",
+  "we": "What We Offer",
+  "desc": "We develop reliable, scalable, and secure software solutions tailored to your business processes and operational needs. Our software development services focus on performance, flexibility, and long-term maintainability, enabling businesses to automate workflows, improve efficiency, and adapt quickly to changing requirements.",
+  "title1": "Custom Software Development",
+  "desc1": "Tailored software solutions designed to meet specific business challenges and goals.",
+  "title2": "Enterprise Solutions",
+  "desc2": "Robust systems that support large-scale operations, integrations, and data management.",
+  "title3": "Maintenance & Support",
+  "desc3": "Ongoing support, updates, and optimization to ensure long-term software reliability."
+}
 
-  }
+
+
 }

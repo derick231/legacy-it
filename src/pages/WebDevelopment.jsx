@@ -21,7 +21,7 @@ const WebDevelopment = () => {
         
           {/* Optional content */}
           <div className="relative z-10 flex h-full items-center justify-center text-white">
-            <h1 className="text-3xl font-bold"></h1>
+            <h1 className="text-3xl font-bold">{t("slides.webDevelopment")}</h1>
           </div>
         </div>
 

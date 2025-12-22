@@ -92,7 +92,56 @@
 
     "title3": "Crescimento Empresarial",
     "desc3": "Ajudamos empresas a crescer e alcançar o sucesso por meio de soluções digitais estratégicas que melhoram a eficiência, aumentam a visibilidade e impulsionam um crescimento sustentável."
+  },
+
+  "web": {
+    "title": "Serviços de Desenvolvimento Web",
+    "we": "O Que Oferecemos",
+    "desc": "Desenvolvemos sites e aplicações web rápidas, seguras e escaláveis, adaptadas aos objetivos do seu negócio. Nossas soluções são projetadas para oferecer alto desempenho, segurança robusta e experiências de usuário consistentes em todos os dispositivos. Utilizando tecnologias modernas e boas práticas de desenvolvimento, garantimos que sua plataforma digital cresça junto com o seu negócio, suporte o aumento de tráfego e se adapte às necessidades futuras, mantendo-se confiável e fácil de manter.",
+    "title1": "Desenvolvimento de Sites Personalizados",
+    "desc1": "Sites sob medida, criados para refletir a identidade da sua marca e as necessidades do seu negócio.",
+    "title2": "Desenvolvimento de Aplicações Web",
+    "desc2": "Aplicações web robustas com autenticação segura, APIs e funcionalidades em tempo real.",
+    "title3": "Soluções de E-commerce",
+    "desc3": "Lojas online escaláveis com pagamentos seguros e uma experiência de usuário fluida."
+  },
+
+  "graphic": {
+    "title": "Serviços de Design Gráfico",
+    "we": "O Que Oferecemos",
+    "desc": "Criamos designs visualmente impactantes que comunicam a mensagem da sua marca de forma clara e eficaz. Nossas soluções de design gráfico priorizam criatividade, consistência e usabilidade, ajudando sua marca a se destacar em plataformas digitais e impressas. Do conceito à entrega final, garantimos que cada elemento de design esteja alinhado com a identidade e os objetivos de marketing do seu negócio.",
+    "title1": "Design de Identidade de Marca",
+    "desc1": "Logotipos, paletas de cores e guias de marca que refletem a personalidade do seu negócio.",
+    "title2": "Design UI/UX",
+    "desc2": "Interfaces focadas no usuário que melhoram a usabilidade e proporcionam experiências envolventes.",
+    "title3": "Design de Marketing e Impressão",
+    "desc3": "Designs criativos para banners, brochuras, redes sociais e materiais promocionais."
+  },
+
+  "digital": {
+    "title": "Serviços de Marketing Digital",
+    "we": "O Que Oferecemos",
+    "desc": "Ajudamos empresas a crescer online por meio de estratégias de marketing digital orientadas por dados, aumentando visibilidade, engajamento e conversões. Nossa abordagem combina criatividade e análise para alcançar o público certo no momento certo, garantindo resultados mensuráveis e crescimento sustentável da marca nos canais digitais.",
+    "title1": "Otimização para Mecanismos de Busca (SEO)",
+    "desc1": "Conteúdo otimizado e estratégias técnicas para melhorar o posicionamento nos buscadores e o tráfego orgânico.",
+    "title2": "Marketing em Redes Sociais",
+    "desc2": "Campanhas envolventes que fortalecem a marca e conectam-se com o público-alvo.",
+    "title3": "Publicidade Paga e Análise de Dados",
+    "desc3": "Campanhas publicitárias focadas em resultados com monitoramento contínuo e otimização de desempenho."
+  },
+
+  "software": {
+    "title": "Serviços de Desenvolvimento de Software",
+    "we": "O Que Oferecemos",
+    "desc": "Desenvolvemos soluções de software confiáveis, escaláveis e seguras, adaptadas aos processos e necessidades operacionais do seu negócio. Nossos serviços focam em desempenho, flexibilidade e manutenção a longo prazo, permitindo que as empresas automatizem processos, aumentem a eficiência e se adaptem rapidamente às mudanças.",
+    "title1": "Desenvolvimento de Software Personalizado",
+    "desc1": "Soluções de software sob medida, projetadas para atender desafios e objetivos específicos do negócio.",
+    "title2": "Soluções Empresariais",
+    "desc2": "Sistemas robustos que suportam operações em larga escala, integrações e gestão de dados.",
+    "title3": "Manutenção e Suporte",
+    "desc3": "Suporte contínuo, atualizações e otimização para garantir a confiabilidade do software a longo prazo."
   }
+
 
 
 }

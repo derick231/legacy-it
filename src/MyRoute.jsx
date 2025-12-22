@@ -6,6 +6,7 @@ import Services from "./pages/Services";
 import WebDevelopment from "./pages/WebDevelopment";
 import GraphicDesign from "./pages/GraphicDesign";
 import DigitalMarketing from "./pages/DigitalMarketing";
+import SoftwareDevelopment from "./pages/SoftwareDevelopment";
 
 const MyRoute = () => {
   return (
@@ -14,9 +15,10 @@ const MyRoute = () => {
       <Route path="/about" element={<About />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="/services" element={<Services/>}/>
-      <Route path="/webdevelopment" element={<WebDevelopment/>}/>
-      <Route path="/graphicdesign" element={<GraphicDesign/>}/>
-      <Route path="/digitalmarketing" element={<DigitalMarketing/>}/>
+      <Route path="/services/webdevelopment" element={<WebDevelopment/>}/>
+      <Route path="/services/graphicdesign" element={<GraphicDesign/>}/>
+      <Route path="/services/digitalmarketing" element={<DigitalMarketing/>}/>
+      <Route path="/services/softwaredevelopment" element={<SoftwareDevelopment/>}/>
 
 
     </Routes>

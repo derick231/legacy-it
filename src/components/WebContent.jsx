@@ -16,23 +16,23 @@ const WebContent = () => {
 
               <div className="max-w-6xl mx-auto px-4">
     <h1 className="text-3xl font-semibold text-center my-12">
-      What We Offer
+      {t("web.we")}
     </h1>
 
 <div className="grid md:grid-cols-3 gap-8 ">
   {[
     {
-      title: "Custom Website Development",
-      desc: "Tailor-made websites built to match your brand identity and business requirements."
+      title: t("web.title1"),
+      desc: t("web.desc1")
     },
     {
-      title: "Web Application Development",
-      desc: "Powerful web apps with secure authentication, APIs, and real-time features."
+      title: t("web.title2"),
+      desc: t("web.desc2")
     },
-    {
-      title: "E-Commerce Solutions",
-      desc: "Scalable online stores with secure payments and smooth user experience."
-    }
+   {
+      title: t("web.title3"),
+      desc: t("web.desc3")
+    },
   ].map((item, i) => (
     <div
       key={i}

@@ -91,7 +91,57 @@
 
     "title3": "Crecimiento Empresarial",
     "desc3": "Ayudamos a las empresas a crecer y tener éxito proporcionando soluciones digitales estratégicas que mejoran la eficiencia, aumentan la visibilidad y generan un crecimiento sostenible."
+  },
+
+
+  "web": {
+    "title": "Servicios de Desarrollo Web",
+    "we": "Lo Que Ofrecemos",
+    "desc": "Construimos sitios web y aplicaciones web rápidas, seguras y escalables, adaptadas a los objetivos de su negocio. Nuestras soluciones están diseñadas para ofrecer alto rendimiento, seguridad robusta y experiencias de usuario fluidas en todos los dispositivos. Utilizando tecnologías modernas y mejores prácticas de desarrollo, garantizamos que su plataforma digital pueda crecer junto con su negocio, manejar un tráfico creciente y adaptarse a futuras necesidades, manteniéndose confiable y fácil de mantener.",
+    "title1": "Desarrollo de Sitios Web a Medida",
+    "desc1": "Sitios web personalizados diseñados para reflejar la identidad de su marca y las necesidades de su negocio.",
+    "title2": "Desarrollo de Aplicaciones Web",
+    "desc2": "Aplicaciones web potentes con autenticación segura, APIs y funciones en tiempo real.",
+    "title3": "Soluciones de Comercio Electrónico",
+    "desc3": "Tiendas en línea escalables con pagos seguros y una experiencia de usuario fluida."
+  },
+
+  "graphic": {
+    "title": "Servicios de Diseño Gráfico",
+    "we": "Lo Que Ofrecemos",
+    "desc": "Creamos diseños visualmente atractivos que comunican el mensaje de su marca de manera clara y efectiva. Nuestras soluciones de diseño gráfico se centran en la creatividad, la coherencia y la usabilidad, ayudando a que su marca destaque en plataformas digitales e impresas. Desde el concepto hasta la entrega final, garantizamos que cada elemento de diseño esté alineado con la identidad y los objetivos de marketing de su negocio.",
+    "title1": "Diseño de Identidad de Marca",
+    "desc1": "Logotipos, paletas de colores y guías de marca que reflejan la personalidad de su negocio.",
+    "title2": "Diseño UI/UX",
+    "desc2": "Diseños de interfaces centrados en el usuario que mejoran la usabilidad y ofrecen experiencias atractivas.",
+    "title3": "Diseño de Marketing e Impresión",
+    "desc3": "Diseños creativos para banners, folletos, redes sociales y materiales promocionales."
+  },
+
+  "digital": {
+    "title": "Servicios de Marketing Digital",
+    "we": "Lo Que Ofrecemos",
+    "desc": "Ayudamos a las empresas a crecer en línea mediante estrategias de marketing digital basadas en datos que aumentan la visibilidad, el compromiso y las conversiones. Nuestro enfoque combina creatividad y análisis para llegar al público adecuado en el momento correcto, garantizando resultados medibles y un crecimiento de marca a largo plazo en los canales digitales.",
+    "title1": "Optimización para Motores de Búsqueda (SEO)",
+    "desc1": "Contenido optimizado y estrategias técnicas para mejorar el posicionamiento en buscadores y el tráfico orgánico.",
+    "title2": "Marketing en Redes Sociales",
+    "desc2": "Campañas atractivas que fortalecen la marca y conectan con su público objetivo.",
+    "title3": "Publicidad Pagada y Analítica",
+    "desc3": "Campañas publicitarias orientadas a resultados con seguimiento continuo y optimización del rendimiento."
+  },
+
+  "software": {
+    "title": "Servicios de Desarrollo de Software",
+    "we": "Lo Que Ofrecemos",
+    "desc": "Desarrollamos soluciones de software confiables, escalables y seguras, adaptadas a los procesos y necesidades operativas de su negocio. Nuestros servicios se enfocan en el rendimiento, la flexibilidad y el mantenimiento a largo plazo, permitiendo a las empresas automatizar flujos de trabajo, mejorar la eficiencia y adaptarse rápidamente a los cambios.",
+    "title1": "Desarrollo de Software a Medida",
+    "desc1": "Soluciones de software personalizadas diseñadas para afrontar desafíos y objetivos específicos del negocio.",
+    "title2": "Soluciones Empresariales",
+    "desc2": "Sistemas robustos que respaldan operaciones a gran escala, integraciones y gestión de datos.",
+    "title3": "Mantenimiento y Soporte",
+    "desc3": "Soporte continuo, actualizaciones y optimización para garantizar la confiabilidad del software a largo plazo."
   }
+
 
 
 

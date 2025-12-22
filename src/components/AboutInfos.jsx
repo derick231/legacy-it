@@ -8,7 +8,7 @@ const AboutInfos = ({ title, content, image, reverse = false }) => {
         flex flex-col
         overflow-hidden
         group
-        my-10    
+        mb-10    
         justify-center
         items-center
         gap-8

@@ -38,7 +38,7 @@ const Services = () => {
                 url={web}
                 description={t("service.webDesc")}
                 button={t("service.button")}
-                path={"/webdevelopment"}
+                path={"/services/webdevelopment"}
                 
               />
               <Cards
@@ -46,7 +46,7 @@ const Services = () => {
                 url={graphic}
                 description={t("service.graphicDesc")}
                  button={t("service.button")}
-                 path={"/graphicdesign"}
+                 path={"/services/graphicdesign"}
                 
               />
               <Cards
@@ -54,7 +54,7 @@ const Services = () => {
                 url={digital}
                 description={t("service.digitalDesc")}
                  button={t("service.button")}
-                 path={"/digitalmarketing"}
+                 path={"/services/digitalmarketing"}
                 
               />
 
@@ -63,7 +63,7 @@ const Services = () => {
                     url={software}
                     description={t("service.softwareDesc")}
                     button={t("service.button")}
-                    path={"/softwaredevelopment"}
+                    path={"/services/softwaredevelopment"}
                 />
 
               </div>

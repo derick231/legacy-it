@@ -9,8 +9,44 @@ import {
 } from "react-icons/fa";
 import contact from "../assets/contact.jpg";
 import { useTranslation } from "react-i18next";
+import { useState } from "react";
+import emailjs from "@emailjs/browser";
 
 const Contact_form = () => {
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [message, setMessage] = useState("");
+  const [success, setSuccess] = useState(false);
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+
+    const serviceId = "service_k483nh5";
+    const templateId = "template_jy8km0q";
+    const publicKey = "ENkb0BuA3FRhAL9Or";
+
+    const templateParams = {
+      name,
+      email,
+      message,
+    };
+
+    emailjs
+      .send(serviceId, templateId, templateParams, publicKey)
+      .then((res) => {
+        console.log("email sent successfully", res);
+        setName("");
+        setEmail("");
+        setMessage("");
+        setSuccess(true);
+
+        setTimeout(() => setSuccess(false), 3000);
+      })
+      .catch((err) => {
+        console.error("Error ", err);
+      });
+  };
+
   const { t } = useTranslation();
   return (
     <>
@@ -32,7 +68,13 @@ const Contact_form = () => {
           <div className="grid gap-10 md:grid-cols-2">
             {/* LEFT — FORM */}
             <div className="rounded-xl bg-white p-8 shadow-sm">
-              <form className="space-y-4">
+              {success && (
+                <div className="rounded-md bg-green-100 px-4 py-2 text-sm text-green-700">
+                  ✅ Email sent successfully!
+                </div>
+              )}
+
+              <form onSubmit={handleSubmit} className="space-y-4">
                 <div>
                   <label className="text-sm font-medium text-gray-600">
                     {t("contact.name")}
@@ -41,6 +83,8 @@ const Contact_form = () => {
                     type="text"
                     placeholder={t("contact.fname")}
                     className="mt-1 w-full rounded-md border border-gray-300 px-4 py-2 focus:border-sky-400 focus:outline-none"
+                    value={name}
+                    onChange={(e) => setName(e.target.value)}
                   />
                 </div>
 
@@ -52,6 +96,8 @@ const Contact_form = () => {
                     type="email"
                     placeholder={t("contact.femail")}
                     className="mt-1 w-full rounded-md border border-gray-300 px-4 py-2 focus:border-sky-400 focus:outline-none"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
                   />
                 </div>
 
@@ -63,6 +109,8 @@ const Contact_form = () => {
                     rows="5"
                     placeholder={t("contact.fmessage")}
                     className="mt-1 w-full rounded-md border border-gray-300 px-4 py-2 focus:border-sky-400 focus:outline-none"
+                    value={message}
+                    onChange={(e) => setMessage(e.target.value)}
                   ></textarea>
                 </div>
 
@@ -119,10 +167,26 @@ const Contact_form = () => {
                   {t("contact.follow")}
                 </p>
                 <div className="flex gap-3">
-                  <SocialIcon icon={<FacebookIcon size={30} />} />
+                  <a
+                    href="https://www.facebook.com/profile.php?id=61584054964744"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <SocialIcon icon={<FacebookIcon size={30} />} />
+                  </a>
+                  <a href="https://x.com/legacy91847" 
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >
                   <SocialIcon icon={<XIcon size={23} />} />
-                  <SocialIcon icon={<LinkedInIcon size={30} />} />
+                  </a>
+                  {/* <SocialIcon icon={<LinkedInIcon size={30} />} /> */}
+                  <a href="https://www.instagram.com/legacyit825/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >
                   <SocialIcon icon={<InstagramIcon size={30} />} />
+                  </a>
                 </div>
               </div>
             </div>
