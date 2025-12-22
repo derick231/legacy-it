@@ -6,21 +6,19 @@ import { FaLaptopCode } from "react-icons/fa";
 const AboutCard = ({title, desc}) => {
   return (
     <>
-        <div className='border border-gray-200 rounded-lg w-2xs shadow-lg flex gap-5 justify-center group'>
-            <div>
-            <div className='border-4 group-hover:rotate-y-360 duration-800 w-28 h-28 border-[#00c2ff] rounded-full flex justify-center items-center my-3 '>
-                <div className=''>
-                <FaLaptopCode size={75} color='#00c2ff'/>
-                </div>
-            </div>
+    <div className='border p-3 border-gray-200 rounded-lg w-2xs shadow-lg flex flex-col items-center group'>
+  <div className='w-full flex flex-col items-center text-center'>
+    
+    <div className='border-4 group-hover:rotate-y-360 duration-800 w-28 h-28 border-[#00c2ff] rounded-full flex justify-center items-center mb-3'>
+      <FaLaptopCode size={75} color='#00c2ff' />
+    </div>
 
-             <h1 className='text-2xl'>{title}</h1>   
+    <h1 className='text-2xl'>{title}</h1>
+    <p className='mt-3'>{desc}</p>
 
-             <p>{desc}</p>
-             
+  </div>
+</div>
 
-            </div>
-        </div>
     </>
   )
 }

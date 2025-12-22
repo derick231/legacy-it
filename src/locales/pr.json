@@ -79,7 +79,20 @@
   "digitalDesc": "Nossos serviços de marketing digital ajudam marcas a alcançar o público certo, construir uma forte presença online e alcançar um crescimento sustentável.",
   "softwareDesc": "Nossos serviços de desenvolvimento de software ajudam as empresas a criar aplicações confiáveis e escaláveis que melhoram a eficiência, aprimoram a experiência do usuário e apoiam o crescimento a longo prazo.",
   "button": "Saiba mais"
-}
+},
+  "aboutCard": {
+    "heading": "Por que nos escolher?",
+    "headDesc": "Impulsione o seu negócio conosco",
+
+    "title1": "Equipes Especializadas",
+    "desc1": "Nossa equipe é composta por profissionais altamente qualificados, com profundo conhecimento do setor e experiência prática, trabalhando de forma colaborativa para oferecer soluções inovadoras e confiáveis.",
+
+    "title2": "Satisfação do Cliente",
+    "desc2": "Priorizamos as necessidades dos nossos clientes ao oferecer serviços de alta qualidade, manter uma comunicação transparente e garantir suporte ágil para construir confiança e satisfação a longo prazo.",
+
+    "title3": "Crescimento Empresarial",
+    "desc3": "Ajudamos empresas a crescer e alcançar o sucesso por meio de soluções digitais estratégicas que melhoram a eficiência, aumentam a visibilidade e impulsionam um crescimento sustentável."
+  }
 
 
 }

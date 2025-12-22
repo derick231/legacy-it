@@ -54,7 +54,7 @@ const Services = () => {
                 url={digital}
                 description={t("service.digitalDesc")}
                  button={t("service.button")}
-                 path={"/digitalmarket"}
+                 path={"/digitalmarketing"}
                 
               />
 

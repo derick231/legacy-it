@@ -1,25 +1,25 @@
 {
-    "navbar": {
+  "navbar": {
     "home": "Home",
     "about": "About",
     "services": "Services",
     "contact": "Contact"
   },
-    "slides": {
+  "slides": {
     "webDevelopment": "Web Development",
     "graphicDesign": "Graphic Designing",
     "digitalMarketing": "Digital Marketing",
-    "softwareDevelopment":"Software Development",
-    "background":"Why Legacy IT"
+    "softwareDevelopment": "Software Development",
+    "background": "Why Legacy IT"
   },
-  "contents":{
-    "webDevelopment":"Improve your online presence thanks to our most creative web design team in addition to creating attractive websites, we focus on improving the user experience on them. We will make your brand stand out from the competition and thus be more competitive. Boost your business with a website that reflects your brand and attracts your audience. Discover the difference of lead generation-based web design. Turn visitors into customers! Contact us for a free consultation.",
-    "graphicDesign":"Enhance your brand identity with the support of our creative graphic design team. Beyond visually appealing designs, we focus on clear communication and strong brand consistency. From logos and marketing materials to social media graphics and promotional assets, we craft designs that capture attention and leave a lasting impression. Stand out in a crowded market with visuals that truly represent your brand. Strengthen your message, connect with your audience, and elevate your business through impactful graphic design. Contact us today for a free consultation.",
-    "digitalMarketing":"Grow your business and reach the right audience with our results-driven digital marketing strategies. We go beyond visibility by focusing on meaningful engagement, brand awareness, and measurable growth. From social media marketing and search engine optimization to paid advertising and content creation, we help your brand connect with customers at every stage of their journey. Increase traffic, generate quality leads, and turn prospects into loyal customers with digital marketing solutions tailored to your goals. Contact us today for a free consultation.",
+  "contents": {
+    "webDevelopment": "Improve your online presence thanks to our most creative web design team in addition to creating attractive websites, we focus on improving the user experience on them. We will make your brand stand out from the competition and thus be more competitive. Boost your business with a website that reflects your brand and attracts your audience. Discover the difference of lead generation-based web design. Turn visitors into customers! Contact us for a free consultation.",
+    "graphicDesign": "Enhance your brand identity with the support of our creative graphic design team. Beyond visually appealing designs, we focus on clear communication and strong brand consistency. From logos and marketing materials to social media graphics and promotional assets, we craft designs that capture attention and leave a lasting impression. Stand out in a crowded market with visuals that truly represent your brand. Strengthen your message, connect with your audience, and elevate your business through impactful graphic design. Contact us today for a free consultation.",
+    "digitalMarketing": "Grow your business and reach the right audience with our results-driven digital marketing strategies. We go beyond visibility by focusing on meaningful engagement, brand awareness, and measurable growth. From social media marketing and search engine optimization to paid advertising and content creation, we help your brand connect with customers at every stage of their journey. Increase traffic, generate quality leads, and turn prospects into loyal customers with digital marketing solutions tailored to your goals. Contact us today for a free consultation.",
     "softwareDevelopment": "Transform your ideas into powerful, scalable software solutions with our expert software development services. We specialize in building reliable, high-performance applications tailored to your business needs, focusing on usability, security, and long-term scalability. From requirement analysis and system design to development, testing, and deployment, we manage the entire software development lifecycle with precision. Streamline operations, improve efficiency, and drive innovation with custom software solutions built to support your growth. Contact us today for a free consultation.",
-    "background":"Legacy IT stands out as a trusted technology partner dedicated to delivering innovative, reliable, and scalable digital solutions tailored to each client’s needs."
+    "background": "Legacy IT stands out as a trusted technology partner dedicated to delivering innovative, reliable, and scalable digital solutions tailored to each client’s needs."
   },
-    "footer": {
+  "footer": {
     "company": "Company",
     "servicesTitle": "Services",
 
@@ -32,64 +32,69 @@
     "graphicDesign": "Graphic Designing",
     "digitalMarketing": "Digital Marketing",
 
-    "newsletter":"Subscribe to our newsletter",
+    "newsletter": "Subscribe to our newsletter",
     "newscontent": "The latest news, articles, and resources, sent to your inbox weekly.",
 
-    "button":"Subscribe"
-    },
-    "contact":{
-      "title":"Contact Us",
-      "touch":"Get In Touch",
-      "desc":"Feel free to contact us for any inquiries, support, or collaboration. We are always happy to help.",
-      "name":"Your Name",
-      "email": "Your Email",
-      "message":"Your Message",
-      "call":"Whatsapp Us",
-      "emailus":"Email Us",
-      "address": "Address",
-      "follow":"Follow Us On",
-      "fname":"Full Name",
-      "femail":"Email Address",
-      "fmessage":"Message",
-      "button":"Send Message"
+    "button": "Subscribe"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "touch": "Get In Touch",
+    "desc": "Feel free to contact us for any inquiries, support, or collaboration. We are always happy to help.",
+    "name": "Your Name",
+    "email": "Your Email",
+    "message": "Your Message",
+    "call": "Whatsapp Us",
+    "emailus": "Email Us",
+    "address": "Address",
+    "follow": "Follow Us On",
+    "fname": "Full Name",
+    "femail": "Email Address",
+    "fmessage": "Message",
+    "button": "Send Message"
+  },
+  "about": {
+    "title": "About Us",
+    "whtitle": "Who we are",
+    "whatitle": "What we do",
+    "ourtitle": "Our Approach",
+    "ourvision": "Our Vision",
+    "ourmission": "Our Mission",
+    "who": "Legacy IT is a forward-thinking digital solutions company committed to helping businesses grow through innovative technology, creative design, and strategic digital marketing. We partner with brands of all sizes to build meaningful digital experiences that drive real results.",
+    "what": "At Legacy IT, we specialize in web development, graphic design, and digital marketing—delivering solutions that are not only visually appealing but also performance-driven. Our websites are designed to enhance user experience and convert visitors into customers. Our design work strengthens brand identity, while our marketing strategies focus on engagement, visibility, and measurable growth.",
+    "our": "We believe that great digital solutions start with understanding our clients. Every project begins with research, collaboration, and clear communication. By combining creativity with technical expertise and data-driven strategies, we create scalable solutions tailored to each client’s unique goals.",
+    "mission": "Our mission is to empower businesses by delivering reliable, innovative, and scalable digital solutions that help brands stand out in competitive markets and build lasting connections with their audiences.",
+    "vision": "To become a trusted global technology partner known for creativity, quality, and measurable impact."
+  },
+  "service": {
+    "title": "Our Services",
+    "desc": "Services We Offer",
+    "webDevelopment": "Web Development",
+    "graphicDesign": "Graphic Designing",
+    "digitalMarketing": "Digital Marketing",
+    "softwareDevelopment": "Software Development",
+    "webDesc": "We design and develop responsive websites that combine clean design with powerful functionality, helping businesses grow and connect with their audience online.",
+    "graphicDesc": "Our graphic design services transform ideas into engaging visuals that strengthen brand identity and leave a lasting impression.",
+    "digitalDesc": "Our digital marketing services help brands reach the right audience, build strong online presence, and achieve sustainable business growth.",
+    "softwareDesc": "Our software development services help businesses build reliable, scalable applications that improve efficiency, enhance user experience, and support long-term growth.",
+    "button": "know more"
+  },
+  "aboutCard": {
+    "heading": "Why Choose Us!",
+    "headDesc": "Enhance your buisness through us",
 
+    "title1": "Expert Teams",
+    "desc1": "Our team consists of highly skilled professionals with deep industry knowledge and hands-on experience, working collaboratively to deliver innovative and reliable solutions.",
 
-    },
-    "about":{
-      "title":"About Us",
-      "whtitle":"Who we are",
-      "whatitle":"What we do",
-      "ourtitle":"Our Approach",
-      "ourvision":"Our Vision",
-      "ourmission":"Our Mission",
-      "who":"Legacy IT is a forward-thinking digital solutions company committed to helping businesses grow through innovative technology, creative design, and strategic digital marketing. We partner with brands of all sizes to build meaningful digital experiences that drive real results.",
-      "what":"At Legacy IT, we specialize in web development, graphic design, and digital marketing—delivering solutions that are not only visually appealing but also performance-driven. Our websites are designed to enhance user experience and convert visitors into customers. Our design work strengthens brand identity, while our marketing strategies focus on engagement, visibility, and measurable growth.",
-      "our":"We believe that great digital solutions start with understanding our clients. Every project begins with research, collaboration, and clear communication. By combining creativity with technical expertise and data-driven strategies, we create scalable solutions tailored to each client’s unique goals.",
-      "mission":"Our mission is to empower businesses by delivering reliable, innovative, and scalable digital solutions that help brands stand out in competitive markets and build lasting connections with their audiences.",
-      "vision":"To become a trusted global technology partner known for creativity, quality, and measurable impact."
-    },
-    "service":{
-      "title":"Our Services",
-      "desc":"Services We Offer",
-      "webDevelopment":"Web Development",
-      "graphicDesign":"Graphic Designing",
-      "digitalMarketing":"Digital Marketing",
-      "softwareDevelopment":"Software Development",
-      "webDesc":"We design and develop responsive websites that combine clean design with powerful functionality, helping businesses grow and connect with their audience online.",
-      "graphicDesc":"Our graphic design services transform ideas into engaging visuals that strengthen brand identity and leave a lasting impression.",
-      "digitalDesc":"Our digital marketing services help brands reach the right audience, build strong online presence, and achieve sustainable business growth.",
-      "softwareDesc":"Our software development services help businesses build reliable, scalable applications that improve efficiency, enhance user experience, and support long-term growth.",
-      "button":"know more"
+    "title2": "Customer Satisfaction",
+    "desc2": "We prioritize our clients’ needs by delivering high-quality services, maintaining transparent communication, and ensuring timely support to build long-term trust and satisfaction.",
 
+    "title3": "Business Growth",
+    "desc3": "We help businesses scale and succeed by providing strategic digital solutions that improve efficiency, increase visibility, and drive sustainable growth."
+  },
+  "web":{
+    "title":"Web Development Services",
+    "desc":" We build fast, secure, and scalable websites and web applications tailored to your business goals. Our solutions are designed to deliver high performance, robust security, and seamless user experiences across all devices. By using modern technologies and best development practices, we ensure your digital platform can grow with your business, handle increasing traffic, and adapt to future requirements while remaining reliable and easy to maintain."
 
-    },
-    "aboutCard":{
-      "title1":"Web Development",
-      "title2":"Graphic Design",
-      "title3": "Digital Marketing",
-      "title4": "Software Development",
-      "desc1": ""
-    }
- 
-  
+  }
 }

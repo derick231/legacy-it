@@ -57,7 +57,25 @@ const AboutContent = () => {
         image={about5}
         />
 
-        <AboutCard/>
+      <div className='my-10'>
+        <h1 className='text-center text-3xl md:text-4xl mb-5'>{t("aboutCard.heading")}</h1>
+        <p className='text-center text-lg'>{t("aboutCard.headDesc")}</p>
+        </div>
+
+        <div className='flex flex-wrap justify-center gap-5'>
+        <AboutCard 
+        title={t("aboutCard.title1")}
+        desc={t("aboutCard.desc1")}
+        />
+        <AboutCard 
+        title={t("aboutCard.title2")}
+        desc={t("aboutCard.desc2")}
+        />
+        <AboutCard 
+        title={t("aboutCard.title3")}
+        desc={t("aboutCard.desc3")}
+        />
+        </div>
 
     </section>
 
