@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { useTranslation } from "react-i18next";
+import { GrFormNext, GrFormPrevious } from "react-icons/gr";
 
 const slides = [
   {
@@ -17,6 +18,11 @@ const slides = [
     image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     title: "slides.digitalMarketing",
   },
+  {
+    id:4,
+    image:"https://images.unsplash.com/photo-1605379399642-870262d3d051?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c29mdHdhcmUlMjBkZXZlbG9wbWVudHxlbnwwfHwwfHx8MA%3D%3D",
+    title:"slides.softwareDevelopment"
+  }
 ];
 
 export default function Slider() {
@@ -70,14 +76,17 @@ export default function Slider() {
       {/* Controls */}
       <button
         onClick={prevSlide}
-        className="absolute left-4 top-1/2 -translate-y-1/2 bg-black/50 text-white px-3 py-2 rounded-full"
+        className="absolute left-3 top-1/2 -translate-y-1/2 text-white p-3 md:text-6xl text-4xl "
       >
+        <GrFormPrevious />
       </button>
 
       <button
         onClick={nextSlide}
-        className="absolute right-4 top-1/2 -translate-y-1/2 bg-black/50 text-white px-3 py-2 rounded-full"
+        className="absolute right-3 top-1/2 -translate-y-1/2 text-white md:text-6xl text-4xl p-3"
       >
+        <GrFormNext/>
+
       </button>
 
       {/* Indicators */}
