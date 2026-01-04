@@ -60,7 +60,7 @@ export default function Slider() {
             <img
               src={slide.image}
               alt={slide.title}
-              className="w-full md:h-[480px] object-cover"
+              className="w-full h-[calc(100vh-90px)] object-cover"
             />
 
             {/* Caption */}
@@ -76,14 +76,14 @@ export default function Slider() {
       {/* Controls */}
       <button
         onClick={prevSlide}
-        className="absolute left-3 top-1/2 -translate-y-1/2 text-white p-3 md:text-6xl text-4xl "
+        className="absolute hidden md:block left-3 top-1/2 -translate-y-1/2 text-white p-3 md:text-6xl text-4xl "
       >
         <GrFormPrevious />
       </button>
 
       <button
         onClick={nextSlide}
-        className="absolute right-3 top-1/2 -translate-y-1/2 text-white md:text-6xl text-4xl p-3"
+        className="absolute hidden md:block right-3 top-1/2 -translate-y-1/2 text-white md:text-6xl text-4xl p-3"
       >
         <GrFormNext/>
 
